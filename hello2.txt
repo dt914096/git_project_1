@@ -1,1 +1,2 @@
-this line is added  by remote.
+this line is added by remote.
+this line is added by local.
